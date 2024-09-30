@@ -77,17 +77,17 @@ public class Livro {
 
     }
 
-    public boolean editarLivro(int cod) {
-        boolean verificador = false;
-        LivroDAO p = new LivroDAO();
-        try {
-            p.editar(cod);
-            verificador = true;
-        } catch (Exception e) {
+    //public boolean editarLivro(int cod) {
+        //boolean verificador = false;
+        //LivroDAO p = new LivroDAO();
+        //try {
+            //p.editar(cod);
+            //verificador = true;
+        //} catch (Exception e) {
 
-        }
-        return verificador;
-    }
+        //}
+        //return verificador;
+    //}
 
     public boolean cadastrarLivro(Livro Livro) {
         boolean verificador = false;
