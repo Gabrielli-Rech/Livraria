@@ -20,12 +20,19 @@
 ## 📂 Estrutura do Projeto
 
 Livraria/
+<br>
 ├── src/ # Código-fonte Java
+<br>
 │ ├── Livro.java # Classe Livro
+<br>
 │ ├── Cliente.java # Classe Cliente
+<br>
 │ ├── Venda.java # Classe Venda
+<br>
 │ └── Main.java # Classe principal para execução
+<br>
 ├── .gitignore # Arquivos/pastas ignorados pelo Git
+<br>
 └── README.md # Este arquivo
 
 
